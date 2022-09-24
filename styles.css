@@ -81,7 +81,7 @@ a:hover{
 
 .bottom-cloud {
   position: absolute;
-  top: 200px;
+  top: 400px;
   left: 300px;
 }
 
@@ -151,7 +151,7 @@ a:hover{
 
 .btn:hover {
   background: #3cb0fd;
-   background-image: -webkit-linear-gradient(top, white, white);
+  background-image: -webkit-linear-gradient(top, white, white);
   background-image: -moz-linear-gradient(top, white, white);
   background-image: -ms-linear-gradient(top, white, white);
   background-image: -o-linear-gradient(top, white, white);
